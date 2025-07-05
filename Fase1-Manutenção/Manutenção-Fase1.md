@@ -35,3 +35,6 @@
 ---
 
 > 💡 Este projeto é parte do meu portfólio técnico como DBA e foi construído com base em boas práticas de manutenção preventiva no SQL Server.
+
+📄 [Documentação da Fase 1 no Google Docs](https://docs.google.com/document/d/1rqNxiXyRRcgVwe8vzQ91Q7SjYCH-5Z66hvv2ghAUU1Q/edit?usp=sharing)
+
